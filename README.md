@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
+| [0319-bulb-switcher](https://github.com/Sayan59das/DSA/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Sayan59das/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Sayan59das/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Sayan59das/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
