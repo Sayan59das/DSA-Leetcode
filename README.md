@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sayan59das/DSA/tree/master/0015-3sum) |
+| [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sayan59das/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sayan59das/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sayan59das/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Sayan59das/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sayan59das/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -50,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Sayan59das/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sayan59das/DSA/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
