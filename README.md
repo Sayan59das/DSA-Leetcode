@@ -28,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/Sayan59das/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sayan59das/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Sayan59das/DSA/tree/master/0443-string-compression) |
+| [2396-strictly-palindromic-number](https://github.com/Sayan59das/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/Sayan59das/DSA/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Sayan59das/DSA/tree/master/0509-fibonacci-number) |
+| [2396-strictly-palindromic-number](https://github.com/Sayan59das/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +127,5 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Sayan59das/DSA/tree/master/0319-bulb-switcher) |
+| [2396-strictly-palindromic-number](https://github.com/Sayan59das/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
