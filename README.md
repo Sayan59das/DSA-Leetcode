@@ -21,6 +21,7 @@
 | [0015-3sum](https://github.com/Sayan59das/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sayan59das/DSA/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
+| [0443-string-compression](https://github.com/Sayan59das/DSA/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Sayan59das/DSA/tree/master/0443-string-compression) |
 | [1544-make-the-string-great](https://github.com/Sayan59das/DSA/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
