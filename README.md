@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sayan59das/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Sayan59das/DSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sayan59das/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sayan59das/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sayan59das/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sayan59das/DSA/tree/master/0075-sort-colors) |
@@ -124,6 +125,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sayan59das/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sayan59das/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Brainteaser
 |  |
