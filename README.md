@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sayan59das/DSA/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Sayan59das/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sayan59das/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sayan59das/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sayan59das/DSA/tree/master/0169-majority-element) |
@@ -60,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sayan59das/DSA/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Sayan59das/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -76,6 +78,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sayan59das/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sayan59das/DSA/tree/master/0169-majority-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
