@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sayan59das/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sayan59das/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sayan59das/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Sayan59das/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sayan59das/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sayan59das/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Sayan59das/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sayan59das/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/Sayan59das/DSA/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Sayan59das/DSA/tree/master/0509-fibonacci-number) |
