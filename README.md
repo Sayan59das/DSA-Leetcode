@@ -95,6 +95,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Sayan59das/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sayan59das/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
