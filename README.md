@@ -164,4 +164,5 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sayan59das/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
