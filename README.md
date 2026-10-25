@@ -38,6 +38,7 @@
 | [0283-move-zeroes](https://github.com/Sayan59das/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sayan59das/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Sayan59das/DSA/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/Sayan59das/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Sayan59das/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
@@ -165,4 +166,5 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sayan59das/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sayan59das/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
