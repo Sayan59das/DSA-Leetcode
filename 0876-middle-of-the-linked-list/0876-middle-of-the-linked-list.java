@@ -19,9 +19,9 @@ class Solution {
 
         }
         int center = (int)(count/2);
-        // center = center;
+        center = center+1;
         temp = head;
-        count = 0;
+        count = 1;
         while(temp != null){
             if(center == count){
                 break;
