@@ -19,7 +19,7 @@ class Solution {
 
         }
         int center = (int)(count/2);
-        center = center;
+        // center = center;
         temp = head;
         count = 0;
         while(temp != null){
