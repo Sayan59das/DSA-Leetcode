@@ -86,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sayan59das/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Sayan59das/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 | [0319-bulb-switcher](https://github.com/Sayan59das/DSA/tree/master/0319-bulb-switcher) |
@@ -99,6 +100,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sayan59das/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sayan59das/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sayan59das/DSA/tree/master/0206-reverse-linked-list) |
@@ -169,6 +171,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sayan59das/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayan59das/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sayan59das/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
