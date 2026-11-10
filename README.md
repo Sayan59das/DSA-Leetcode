@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sayan59das/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sayan59das/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sayan59das/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sayan59das/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sayan59das/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sayan59das/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sayan59das/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sayan59das/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayan59das/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -171,4 +173,8 @@
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sayan59das/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sayan59das/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sayan59das/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
