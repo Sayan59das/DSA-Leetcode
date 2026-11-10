@@ -101,6 +101,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sayan59das/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Sayan59das/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sayan59das/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -171,6 +172,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayan59das/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sayan59das/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Sayan59das/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sayan59das/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sayan59das/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
