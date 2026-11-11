@@ -35,6 +35,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sayan59das/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sayan59das/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sayan59das/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/Sayan59das/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sayan59das/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Sayan59das/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
@@ -174,6 +175,7 @@
 | [0002-add-two-numbers](https://github.com/Sayan59das/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayan59das/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sayan59das/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Sayan59das/DSA/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sayan59das/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sayan59das/DSA/tree/master/0237-delete-node-in-a-linked-list) |
