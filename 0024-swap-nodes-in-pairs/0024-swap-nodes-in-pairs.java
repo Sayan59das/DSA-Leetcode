@@ -31,11 +31,10 @@ class Solution {
             first = third;
             if(third != null){
                 second = third.next;
-
             }
-            // else{
-            //     second = null;
-            // }
+            else{
+                second = null;
+            }
         }
 
         return head;
