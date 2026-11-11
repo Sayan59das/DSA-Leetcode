@@ -10,38 +10,36 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        if (head == null || head.next == null) {
+        if(head == null || head.next == null){
             return head;
         }
-
-        ListNode temp = head.next;
-        ListNode temp1 = head.next.next;
-
-        ListNode x = head;
-        ListNode result = temp;
-
-        // First swap
-        temp.next = x;
-        x.next = temp1;
-
-        ListNode tail = null;
-        ListNode z = null;
-
-        while (temp1 != null && temp1.next != null) {
-
-            tail = temp1.next;
-            z = tail.next;
-
-            tail.next = temp1;
-
-            temp.next.next = tail;
-
-            temp1.next = z;
-
-            temp = tail;
-            temp1 = z;
+        ListNode first = head;
+        ListNode sec = head.next;
+        ListNode prev = null;
+        while(first != null && sec != null){
+            ListNode third = sec.next;
+            sec.next = first;
+            first.next = third;
+            if(prev != null){
+                prev.next = sec;
+            }
+            else{
+                head = sec;
+            }
+            prev = first;
+            first = third;
+            if(third != null){
+                sec = third.next;
+            }
+            else{
+                sec = null;
+            }
         }
 
-        return result;
+        return head;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
