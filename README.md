@@ -39,6 +39,7 @@
 | [0075-sort-colors](https://github.com/Sayan59das/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Sayan59das/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Sayan59das/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sayan59das/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sayan59das/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Sayan59das/DSA/tree/master/0443-string-compression) |
@@ -105,6 +106,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Sayan59das/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sayan59das/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sayan59das/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Sayan59das/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -141,6 +143,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sayan59das/DSA/tree/master/0234-palindrome-linked-list) |
 | [1544-make-the-string-great](https://github.com/Sayan59das/DSA/tree/master/1544-make-the-string-great) |
 ## Binary Search
 |  |
@@ -178,6 +181,7 @@
 | [0061-rotate-list](https://github.com/Sayan59das/DSA/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sayan59das/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sayan59das/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sayan59das/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sayan59das/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sayan59das/DSA/tree/master/0876-middle-of-the-linked-list) |
