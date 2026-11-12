@@ -37,6 +37,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sayan59das/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Sayan59das/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sayan59das/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Sayan59das/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Sayan59das/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sayan59das/DSA/tree/master/0234-palindrome-linked-list) |
@@ -61,6 +62,7 @@
 | [0001-two-sum](https://github.com/Sayan59das/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sayan59das/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sayan59das/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Sayan59das/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Sayan59das/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sayan59das/DSA/tree/master/0217-contains-duplicate) |
@@ -124,6 +126,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sayan59das/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sayan59das/DSA/tree/master/0202-happy-number) |
 ## Quicksort
 |  |
@@ -179,6 +182,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sayan59das/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sayan59das/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Sayan59das/DSA/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/Sayan59das/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Sayan59das/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sayan59das/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sayan59das/DSA/tree/master/0234-palindrome-linked-list) |
