@@ -14,27 +14,27 @@ class Solution {
             return head;
         }
         HashMap<Integer, Integer> map = new HashMap<>();
-
         ListNode temp = head;
+
         while(temp != null){
             if(map.containsKey(temp.val)){
                 map.put(temp.val, map.get(temp.val)+1);
             }
             else{
-                map.put(temp.val, 1);
+                map.put(temp.val , 1);
             }
             temp = temp.next;
         }
+
         temp = head;
         ListNode tail = null;
         ListNode newHead = null;
         while(temp != null){
             ListNode next = temp.next;
-
             if(map.get(temp.val) == 1){
                 if(newHead == null){
                     newHead = temp;
-                    tail = temp;
+                    tail = newHead;
                 }
                 else{
                     tail.next = temp;
@@ -47,5 +47,9 @@ class Solution {
             tail.next = null;
         }
         return newHead;
+
+
+
+
     }
 }
