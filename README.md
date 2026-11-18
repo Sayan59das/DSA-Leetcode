@@ -25,6 +25,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Sayan59das/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sayan59das/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Sayan59das/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Sayan59das/DSA/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sayan59das/DSA/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/Sayan59das/DSA/tree/master/0735-asteroid-collision) |
 | [1544-make-the-string-great](https://github.com/Sayan59das/DSA/tree/master/1544-make-the-string-great) |
 ## Binary Search
 |  |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sayan59das/DSA/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Sayan59das/DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
