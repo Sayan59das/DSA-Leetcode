@@ -141,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sayan59das/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sayan59das/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sayan59das/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Sayan59das/DSA/tree/master/0443-string-compression) |
@@ -148,6 +149,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sayan59das/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Sayan59das/DSA/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/Sayan59das/DSA/tree/master/0735-asteroid-collision) |
 | [1544-make-the-string-great](https://github.com/Sayan59das/DSA/tree/master/1544-make-the-string-great) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Sayan59das/DSA/tree/master/0735-asteroid-collision) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sayan59das/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
